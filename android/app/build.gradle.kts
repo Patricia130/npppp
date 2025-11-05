@@ -26,7 +26,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "package name here"
+    namespace = "com.tochegando.cliente"
     compileSdk = 35
     ndkVersion = "27.0.12077973"
 
@@ -41,7 +41,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "package name here"
+        applicationId = "com.tochegando.cliente"
         minSdk = 23
         targetSdk = 35
         versionCode = flutterVersionCode
