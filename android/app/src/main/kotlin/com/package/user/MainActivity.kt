@@ -1,4 +1,4 @@
-package package name here
+package com.tochegando.cliente
 
 import android.os.Bundle
 import androidx.core.view.WindowCompat
