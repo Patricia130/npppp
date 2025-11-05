@@ -36,7 +36,7 @@ class AppThemes {
           fontWeight: FontWeight.w500,
         ),
       ),
-      dialogTheme: const DialogTheme(
+      dialogTheme: const DialogThemeData(
         backgroundColor: AppColors.white,
       ),
       buttonTheme: originalTheme.buttonTheme.copyWith(
